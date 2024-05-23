@@ -7,7 +7,7 @@
 Aqui é a Vanessa Nakao, fiz um podcast super interessante para os estudantes e todas as pessoas que querem gabaritar na redação do Enem e pasmem, a Inteligência Artificial é uma aliada incrível. 💪💪💪
 
 ## 🎧 Resultados
-Ouça o podcast agora 🎵
+[Ouça o podcast agora 🎵]()
 
 ## 🤖 Tecnologias Utilizadas
 
