@@ -27,11 +27,11 @@ Aqui é a Vanessa Nakao, fiz um podcast super interessante para os estudantes e 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Áudio gravado utilizando Podcastle.ai
+- Áudio gravado por Luana Nakao, vozes Natty utilizando Podcastle.ai 
 
 ## 📚 Materiais
 
-- Áudio em MP3 criado com o auxilio da IA, na pasta `output`
+- Áudio em MP3 criado com o auxilio da IA, na pasta `audio`
 
 ## 👨‍💻 Vanessa Nakao de Oliveira
 
